@@ -1,4 +1,4 @@
-# ElevenLabs: a Growth PM's first-week teardown
+# ElevenLabs: a growth marketer's first-look teardown
 
 I tried ElevenLabs on the free plan (10,000 credits) as a new user and wrote down
 what helped me, what stopped me, and what I would test first.
