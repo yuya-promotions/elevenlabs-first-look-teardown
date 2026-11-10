@@ -8,8 +8,7 @@ what helped me, what stopped me, and what I would test first.
 
 ## What worked
 - The dubbed English voice kept the speaker's tone remarkably well.
-- Examples show the prompt behind each output. Seeing how, not just the result,
-  made me think "I can do this too."
+- Across ElevenCreative, ElevenAgents, and ElevenAPI, examples come with the prompt behind them. Seeing how, not just the result, made me think "I can do this too."
 
 ## Where I got stuck
 | Where | What happened | Why it matters |
